@@ -7,8 +7,14 @@
 		"enable_search" : true
 	},
 	"content" : {
-		"blog" : {
-			"title" : "Blog",
+        "Blog" : {
+            "title" : "Blog",
+            "type" : "rss",
+            "show_description" : true,
+            "content" : "http://jamescarlos.com/rss"
+        },
+		"notes" : {
+			"title" : "Notes",
 			"type" : "blog",
 			"content" : {
 				"Testing hackerhub.org" : {
