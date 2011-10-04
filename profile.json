@@ -21,6 +21,12 @@
 			"title" : "Twitter",
 			"type" : "twitter",
 			"username" : "jamescarlos"
-		}
+		},
+        "delicious":{
+            "title" : "Delicious",
+            "type" : "rss",
+            "show_description" : true,
+            "content" : "http://delicious.com/v2/rss/jamescarlos"
+        }
 	}
 }
