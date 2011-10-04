@@ -13,7 +13,7 @@
 			"content" : {
 				"Testing hackerhub.org" : {
 					"created" : "10/3/2011",
-					"content" : "http://github.com/jamescarlos/jamescarlos.hackerhub.org/blog/testing-hackerhub-org.md"
+					"content" : "https://raw.github.com/jamescarlos/jamescarlos.hackerhub.org/master/blog/testing-hackerhub-org.md"
 				}
 			}
 		},
