@@ -1,0 +1,26 @@
+{
+	"settings" : {
+		"id" : "jamescarlos",
+		"name" : "James Carlos",
+		"avatar" : "http://www.gravatar.com/avatar/0b067d1579e326530fade415cef1ef6e?s=200",
+		"disqus_shortname" : "jamescarlos",
+		"enable_search" : true
+	},
+	"content" : {
+		"blog" : {
+			"title" : "Blog",
+			"type" : "blog",
+			"content" : {
+				"Testing hackerhub.org" : {
+					"created" : "10/3/2011",
+					"content" : "http://github.com/jamescarlos/jamescarlos.hackerhub.org/blog/testing-hackerhub-org.md"
+				}
+			}
+		},
+		"twitter":{
+			"title" : "Twitter",
+			"type" : "twitter",
+			"username" : "jamescarlos"
+		}
+	}
+}
